@@ -210,11 +210,6 @@ const langArr = {
         'ru': `Свяжитесь со Мной`,
         'es': 'Contacteme',
     },
-    'your_name': {
-        'en': 'Your Name',
-        'ru': 'Ваше Имя',
-        'es': 'Su Nombre',
-    },
     'submit': {
         'en': 'Submit',
         'ru': 'Отправить',
@@ -229,6 +224,21 @@ const langArr = {
         'en': 'Web Developer | UX/UI Designer',
         'ru': 'Веб-Разработчик | UX/UI Дизайнер',
         'es': 'Desarrollador Web | UX/UI Diseñador',
+    },
+    'password': {
+        'en': 'How to Generate Random Password with PHP',
+        'ru': 'Как Сгенерировать cлучайный Пароль с помощью PHP',
+        'es': 'Como Generar una Clave Casual con PHP',
+    },
+    'password_demo': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
+    },
+    'generator': {
+        'en': 'Generator Pasword',
+        'ru': 'Генератор Паролей',
+        'es': 'Generador de Claves',
     },
 }
 

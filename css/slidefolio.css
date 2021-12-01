@@ -153,6 +153,25 @@ border-radius:0px !important;
   padding: .2em .3em .3em;
 }
 
+.demo {
+  float: none;
+  border: 1px solid grey;
+  background: transparent;
+  width: 100%;
+  border-radius: 10px;
+  text-shadow: 0 1px 0 #ffffff;
+  opacity: 0.35;
+  margin-top: 2%;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.demo:hover {
+  background: rgba(224, 224, 224, 0.2);
+  text-shadow: 0 1px 0 #ffffff;
+  opacity: 0.8;
+}
+
 @media (max-width: 767px) {
   .navbar-new .navbar-nav .open .dropdown-menu > li > a {
     color: #777777;
