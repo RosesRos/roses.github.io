@@ -110,10 +110,10 @@ const langArr = {
         'es': 'ESTILO PROPIO',
     },
     'servic_about_one': {
-        'en': `When it comes to eCommerce, user experience (UX) is paramount. Let us customize the perfect online store that matches
+        'en': `When it comes to eCommerce, user experience (UX) is paramount. Let me customize the perfect online store that matches
               your brand voice and your product,build solution to achieve your goals`,
-        'ru': `Когда дело доходит до электронной коммерции, пользовательский интерфейс (UX) имеет первостепенное значение. Позвольте нам создать идеальный интернет-магазин, соответствующий голосу вашего бренда и продукта`,
-        'es': `Cuando se trata de comercio electrónico, la experiencia del usuario (UX) es primordial. Permítanos personalizar la tienda en línea perfecta que coincida con la voz de su marca y su producto`,
+        'ru': `Когда дело доходит до электронной коммерции, пользовательский интерфейс (UX) имеет первостепенное значение. Позвольте мне создать идеальный интернет-магазин, соответствующий голосу вашего бренда и продукта`,
+        'es': `Cuando se trata de comercio electrónico, la experiencia del usuario (UX) es primordial. Permítame personalizar la tienda en línea perfecta que coincida con la voz de su marca y su producto`,
     },
     'servic_about_two': {
         'en': `Website development is one of my main areas of expertise. I understand the value of a beautiful, well executed website
