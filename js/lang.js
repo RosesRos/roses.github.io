@@ -156,7 +156,7 @@ const langArr = {
         'es': 'Habilidad',
     },
     'project_one': {
-        'en': 'Features',
+        'en': 'Function',
         'ru': 'Функция',
         'es': 'Funcion',
     },
@@ -239,6 +239,21 @@ const langArr = {
         'en': 'Generator Pasword',
         'ru': 'Генератор Паролей',
         'es': 'Generador de Claves',
+    },
+    'form_validate': {
+        'en': 'Form Validate PHP',
+        'ru': 'Проверка формы PHP',
+        'es': 'Validación de formularios',
+    },
+    'form_validate_one': {
+        'en': 'How to Validate Form with PHP',
+        'ru': 'Как проверить форму с помощью PHP',
+        'es': 'Cómo Validar un Formulario con PHP',
+    },
+    'password_demo_1': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
     },
 }
 
