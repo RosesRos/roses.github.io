@@ -255,6 +255,51 @@ const langArr = {
         'ru': 'Версия Демо',
         'es': 'Version Demo',
     },
+    'upload_image': {
+        'en': 'How to Upload An Image With PHP',
+        'ru': 'Как Загрузить Картинку С помощью PHP',
+        'es': 'Como Agregar una Imagen Con PHP',
+    },
+    'upload_image_1': {
+        'en': 'Upload An Inamge',
+        'ru': 'Загрузка Картинки',
+        'es': 'Agregar una Imagen',
+    },
+    'upload_image_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
+    },
+    'shoes': {
+        'en': 'Site About Shoes',
+        'ru': 'Сайт Про Обувь',
+        'es': 'Sitio Web Sobre Zapatos',
+    },
+    'espa': {
+        'en': 'Courses of Spanish Language',
+        'ru': 'Курсы Испанского Языка',
+        'es': 'Cursos Del Idioma Español',
+    },
+    'espa_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
+    },
+    'butterfly': {
+        'en': 'Web App About Butterfly With PHP',
+        'ru': 'Веб Приложение Про Бабочек С Помощью PHP',
+        'es': 'Aplicacion Web Sobre Mariposas Con PHP',
+    },
+    'butterfly_1': {
+        'en': 'Web App',
+        'ru': 'Веб Приложение',
+        'es': 'Aplicacion Web',
+    },
+    'butterfly_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
+    },
 }
 
 select.addEventListener('change', changeURLLanguage);
