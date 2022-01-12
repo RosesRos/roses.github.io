@@ -302,6 +302,7 @@ const langArr = {
     },
 }
 
+
 select.addEventListener('change', changeURLLanguage);
 
 function changeURLLanguage() {
