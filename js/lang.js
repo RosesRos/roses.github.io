@@ -300,6 +300,21 @@ const langArr = {
         'ru': 'Версия Демо',
         'es': 'Version Demo',
     },
+    'tv': {
+        'en': 'Project Webpack',
+        'ru': 'Проект Webpack',
+        'es': 'Proyecto Webpack',
+    },
+    'tv_1': {
+        'en': 'Landing Page LESS, WEBPACK',
+        'ru': 'Одностраничный Сайт LESS, WEBPACK',
+        'es': 'Landing Page LESS, WEBPACK',
+    },
+    'tv_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
+    }
 }
 
 
