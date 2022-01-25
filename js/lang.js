@@ -314,6 +314,21 @@ const langArr = {
         'en': 'Version Demo',
         'ru': 'Версия Демо',
         'es': 'Version Demo',
+    },
+    'taste': {
+        'en': 'Slide-Animation',
+        'ru': 'Слайд-Анимация',
+        'es': 'Slide-Animacion',
+    },
+    'taste_1': {
+        'en': 'Slide-Animation With Less and Slick-slide',
+        'ru': 'Слайд-Анимация с LESS И Slick-slide',
+        'es': 'Slide con Animacion LESS Y Slick-slide',
+    },
+    'taste_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
     }
 }
 
