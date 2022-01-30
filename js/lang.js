@@ -8,9 +8,9 @@ const langArr = {
         'es': 'Fabio >> Desarrollador Web',
     },
     'header': {
-        'en': 'Web Developer | UX/UI Designer',
-        'ru': 'Веб-Разработчик | UX/UI Дизайнер',
-        'es': 'Desarrollador Web | UX/UI Diseñador',
+        'en': 'Web Developer',
+        'ru': 'Веб-Разработчик',
+        'es': 'Desarrollador Web',
     },
     'name': {
         'en': 'Fabio Rostran',
@@ -63,16 +63,16 @@ const langArr = {
         'es': 'DESARROLLO WEB BIENVENIDOS A MI PAGINA',
     },
     'main_two': {
-        'en': `We’re the perfect blend of creative and technical. If you need flawless product execution and jaw-dropping design that
+        'en': `If you need flawless product execution and jaw-dropping design that
             entices your audience — then hello, it’s nice to meet you.`,
-        'ru': `Мы - идеальное сочетание творчества и техники. Если вам нужно безупречное исполнение продукта и потрясающий дизайн, который привлекает вашу аудиторию - тогда привет, приятно познакомиться.`,
-        'es': `Somos la combinación perfecta de creatividad y técnica. Si necesita una ejecución impecable del producto y un diseño asombroso que atraiga a su audiencia, entonces hola, es un placer conocerte.`,
+        'ru': `Если вам нужно безупречное исполнение продукта и потрясающий дизайн, который привлекает вашу аудиторию - тогда привет, приятно познакомиться.`,
+        'es': `Si necesita una ejecución impecable del producto y un diseño asombroso que atraiga a su audiencia, entonces hola, es un placer conocerte.`,
     },
     'main_three': {
-        'en': `I'm Web Developer JavaScript and PHP, UX/UI Design. I am enthusiastic about programming languages ​​and obsessed with
+        'en': `I'm Web Developer JavaScript and PHP. I am enthusiastic about programming languages ​​and obsessed with
             the quality of the code. You can view source codes of me in my`,
-        'ru': `Я веб-разработчик JavaScript и PHP, UX / UI дизайнер. Я с энтузиазмом отношусь к языкам программирования и одержин качеством кода. Вы можете посмотреть мои исходные коды в моем`,
-        'es': `Soy Desarrollador Web JavaScript y PHP, Diseñador UX / UI. Me entusiasman los lenguajes de programación y me obsesiona la calidad del código. Puedes ver mis códigos fuente en mi`,
+        'ru': `Я веб-разработчик JavaScript и PHP. Я с энтузиазмом отношусь к языкам программирования и одержин качеством кода. Вы можете посмотреть мои исходные коды в моем`,
+        'es': `Soy Desarrollador Web JavaScript y PHP. Me entusiasman los lenguajes de programación y me obsesiona la calidad del código. Puedes ver mis códigos fuente en mi`,
     },
     'servic': {
         'en': 'What I Do',
@@ -221,9 +221,9 @@ const langArr = {
         'es': 'Cancelar',
     },
     'web': {
-        'en': 'Web Developer | UX/UI Designer',
-        'ru': 'Веб-Разработчик | UX/UI Дизайнер',
-        'es': 'Desarrollador Web | UX/UI Diseñador',
+        'en': 'Web Developer',
+        'ru': 'Веб-Разработчик',
+        'es': 'Desarrollador Web',
     },
     'password': {
         'en': 'How to Generate Random Password with PHP',
