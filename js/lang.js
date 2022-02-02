@@ -329,6 +329,36 @@ const langArr = {
         'en': 'Version Demo',
         'ru': 'Версия Демо',
         'es': 'Version Demo',
+    },
+    'rotate': {
+        'en': 'Rotation-Animation',
+        'ru': 'Прокручивание-Анимация',
+        'es': 'Rotacion-Animacion',
+    },
+    'rotate_1': {
+        'en': 'Rotation-Animation Canvas With SASS and JAVASCRIPT',
+        'ru': 'Прокручивание-Анимация С Sass and Javascript',
+        'es': 'Rotacion-Animacion de Canvas con Sass y Javascript',
+    },
+    'rotate_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
+    },
+    'todo': {
+        'en': 'Todo-List App',
+        'ru': 'Todo-List App',
+        'es': 'Todo-List App',
+    },
+    'todo_1': {
+        'en': 'Todo-List App with ReactJS and SASS',
+        'ru': 'Todo-List App c ReactJS and SASS',
+        'es': 'Todo-List App con ReactJS and SASS',
+    },
+    'todo_2': {
+        'en': 'Version Demo',
+        'ru': 'Версия Демо',
+        'es': 'Version Demo',
     }
 }
 
