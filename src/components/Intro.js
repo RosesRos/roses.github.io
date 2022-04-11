@@ -94,6 +94,11 @@ cursor: pointer;
 
 @media (max-width: 650px) {
     align-items: flex-start;
+    margin-top: 3rem;
+}
+
+@media (max-width: 390px) {
+    margin-top: 1rem;
 }
 `
 
