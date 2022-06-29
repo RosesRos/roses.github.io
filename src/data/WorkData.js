@@ -1,12 +1,12 @@
 export const Work = [
     {
         id:1,
-        name:"nuestraola.com",
-        description:"It is build on WordPress Site about Courses of Spanish Language",
-        tags:["PHP","HTML","WordPress"],
+        name:"prototype_crypto",
+        description:"this project presents a simple prototype of web app for crypto",
+        tags:["JavaScript","HTML","Jss for styles", "Pug for html"],
         
-        demo:"https://nuestraola.com/",
-        github:"https://github.com/facesar?tab=repositories"
+        demo:"https://facesar.github.io/prototype_crypto/dist",
+        github:"https://github.com/facesar/prototype_crypto"
     },
     {
         id:2,
