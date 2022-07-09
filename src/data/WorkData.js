@@ -76,6 +76,16 @@ export const Work = [
         github:"https://github.com/facesar?tab=repositories"
         
     },
+    {
+        id:9,
+        name:"card-project in React-js",
+        description:"This is a small card-project in React-js",
+        tags:["React","react-animations","Sass", "react-jss"],
+        
+        demo:"https://delte.surge.sh/",
+        github:"https://github.com/facesar/delte"
+        
+    },
     
   
 ] 
