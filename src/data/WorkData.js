@@ -29,6 +29,16 @@ export const Work = [
     },
     {
         id:4,
+        name:"Swiss-Gap",
+        description:"Prototype for Authorization",
+        tags:["PHP","CSS","JavaScript"],
+        
+        demo:"https://facesar.lovestoblog.com/dist/",
+        github:"https://github.com/facesar/swiss-gap"
+       
+    },
+    {
+        id:5,
         name:"pullos.surge.sh",
         description:"Site About Shoes with Cards",
         tags:["html","css","javascript"],
@@ -36,8 +46,9 @@ export const Work = [
         demo:"https://pullos.surge.sh/",
         github:"https://github.com/facesar?tab=repositories"
        
-    },{
-        id:5,
+    },
+    {
+        id:6,
         name:"Rotation-Animation",
         description:"Rotation-Animation Canvas With SASS and JAVASCRIPT",
         tags:["JavaScript","Bootstrap","PUG HTML", "Sass", "WebPack"],
@@ -47,37 +58,37 @@ export const Work = [
         
     },
     {
-        id:6,
+        id:7,
         name:"Web App",
         description:"Web App About Butterfly With PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://facesar.lovestoblog.com/main/form_2/index.php?i=1",
+        demo:"https://facesar.lovestoblog.com/form_2/",
         github:"https://github.com/facesar/Landing-page-app-php"
         
     },
     {
-        id:7,
+        id:8,
         name:"Form Validate PHP",
         description:"How to Validate Form with PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://facesar.lovestoblog.com/main/form/demo.php",
-        github:"https://github.com/facesar?tab=repositories"
-        
-    },
-    {
-        id:8,
-        name:"Apload an image",
-        description:"How to Upload An Image With PHP",
-        tags:["PHP","Bootstrap","Sass", "JavaScript"],
-        
-        demo:"https://facesar.lovestoblog.com/main/upload/index.php",
+        demo:"https://facesar.lovestoblog.com/form/",
         github:"https://github.com/facesar?tab=repositories"
         
     },
     {
         id:9,
+        name:"Apload an image",
+        description:"How to Upload An Image With PHP",
+        tags:["PHP","Bootstrap","Sass", "JavaScript"],
+        
+        demo:"https://facesar.lovestoblog.com/upload/",
+        github:"https://github.com/facesar?tab=repositories"
+        
+    },
+    {
+        id:10,
         name:"card-project in React-js",
         description:"This is a small card-project in React-js",
         tags:["React","react-animations","Sass", "react-jss"],
@@ -87,5 +98,4 @@ export const Work = [
         
     },
     
-  
 ] 
