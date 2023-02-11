@@ -33,7 +33,7 @@ export const Work = [
         description:"Prototype for Authorization",
         tags:["PHP","CSS","JavaScript"],
         
-        demo:"https://rosesros.lovestoblog.com/dist/",
+        demo:"https://roses.lovestoblog.com/dist/",
         github:"https://github.com/rosesros/swiss-gap"
        
     },
@@ -63,7 +63,7 @@ export const Work = [
         description:"Web App About Butterfly With PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://rosesros.lovestoblog.com/form_2/",
+        demo:"https://roses.lovestoblog.com/form_2/",
         github:"https://github.com/rosesros/Landing-page-app-php"
         
     },
@@ -73,7 +73,7 @@ export const Work = [
         description:"How to Validate Form with PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://rosesros.lovestoblog.com/form/",
+        demo:"https://roses.lovestoblog.com/form/",
         github:"https://github.com/rosesros?tab=repositories"
         
     },
@@ -83,7 +83,7 @@ export const Work = [
         description:"How to Upload An Image With PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://rosesros.lovestoblog.com/upload/",
+        demo:"https://roses.lovestoblog.com/upload/",
         github:"https://github.com/rosesros?tab=repositories"
         
     },
