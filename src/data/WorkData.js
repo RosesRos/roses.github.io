@@ -5,8 +5,8 @@ export const Work = [
         description:"this project presents a simple prototype of web app for crypto",
         tags:["JavaScript","HTML","Jss for styles", "Pug for html"],
         
-        demo:"https://facesar.github.io/prototype_crypto/dist",
-        github:"https://github.com/facesar/prototype_crypto"
+        demo:"https://rosesros.github.io/prototype_crypto/dist",
+        github:"https://github.com/rosesros/prototype_crypto"
     },
     {
         id:2,
@@ -14,8 +14,8 @@ export const Work = [
         description:"A film listing website build in Pug. With searching and filtering functionalities.",
         tags:["PUG","WebPack", "Less", "Javascript"],
         
-        demo:"https://facesar.github.io/online-TV---league/dist/",
-        github:"https://github.com/facesar/online-TV---league"
+        demo:"https://rosesros.github.io/online-TV---league/dist/",
+        github:"https://github.com/rosesros/online-TV---league"
         
     },
     {
@@ -24,8 +24,8 @@ export const Work = [
         description:"Slide-Animation With Less and Slick-slide",
         tags:["Slick-CarouselJS","JQuery","LESS", "PUG HTML", "WebPack"],
         
-        demo:"https://facesar.github.io/slide-animation/dist/",
-        github:"https://github.com/facesar/slide-animation"
+        demo:"https://rosesros.github.io/slide-animation/dist/",
+        github:"https://github.com/rosesros/slide-animation"
     },
     {
         id:4,
@@ -33,8 +33,8 @@ export const Work = [
         description:"Prototype for Authorization",
         tags:["PHP","CSS","JavaScript"],
         
-        demo:"https://facesar.lovestoblog.com/dist/",
-        github:"https://github.com/facesar/swiss-gap"
+        demo:"https://rosesros.lovestoblog.com/dist/",
+        github:"https://github.com/rosesros/swiss-gap"
        
     },
     {
@@ -44,7 +44,7 @@ export const Work = [
         tags:["html","css","javascript"],
         
         demo:"https://pullos.surge.sh/",
-        github:"https://github.com/facesar?tab=repositories"
+        github:"https://github.com/rosesros?tab=repositories"
        
     },
     {
@@ -53,8 +53,8 @@ export const Work = [
         description:"Rotation-Animation Canvas With SASS and JAVASCRIPT",
         tags:["JavaScript","Bootstrap","PUG HTML", "Sass", "WebPack"],
         
-        demo:"https://facesar.github.io/animation-canvas/dist/",
-        github:"hhttps://github.com/facesar/animation-canvas"
+        demo:"https://rosesros.github.io/animation-canvas/dist/",
+        github:"https://github.com/rosesros/animation-canvas"
         
     },
     {
@@ -63,8 +63,8 @@ export const Work = [
         description:"Web App About Butterfly With PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://facesar.lovestoblog.com/form_2/",
-        github:"https://github.com/facesar/Landing-page-app-php"
+        demo:"https://rosesros.lovestoblog.com/form_2/",
+        github:"https://github.com/rosesros/Landing-page-app-php"
         
     },
     {
@@ -73,8 +73,8 @@ export const Work = [
         description:"How to Validate Form with PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://facesar.lovestoblog.com/form/",
-        github:"https://github.com/facesar?tab=repositories"
+        demo:"https://rosesros.lovestoblog.com/form/",
+        github:"https://github.com/rosesros?tab=repositories"
         
     },
     {
@@ -83,8 +83,8 @@ export const Work = [
         description:"How to Upload An Image With PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
-        demo:"https://facesar.lovestoblog.com/upload/",
-        github:"https://github.com/facesar?tab=repositories"
+        demo:"https://rosesros.lovestoblog.com/upload/",
+        github:"https://github.com/rosesros?tab=repositories"
         
     },
     {
@@ -94,7 +94,7 @@ export const Work = [
         tags:["React","react-animations","Sass", "react-jss"],
         
         demo:"https://delte.surge.sh/",
-        github:"https://github.com/facesar/delte"
+        github:"https://github.com/rosesros/delte"
         
     },
     
