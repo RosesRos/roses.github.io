@@ -10,6 +10,16 @@ export const Work = [
     },
     {
         id:2,
+        name:"Project legends_game",
+        description:"A website build in VueJs. With searching and filtering functionalities.",
+        tags:["VuejS", "Less", "AosJs"],
+        
+        demo:"https://rosesros.github.io/legends_game/#/",
+        github:"https://github.com/RosesRos/legends_game"
+        
+    },
+    {
+        id:3,
         name:"Project Webpack",
         description:"A film listing website build in Pug. With searching and filtering functionalities.",
         tags:["PUG","WebPack", "Less", "Javascript"],
@@ -19,7 +29,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:4,
         name:"Slide-Animation",
         description:"Slide-Animation With Less and Slick-slide",
         tags:["Slick-CarouselJS","JQuery","LESS", "PUG HTML", "WebPack"],
@@ -28,7 +38,7 @@ export const Work = [
         github:"https://github.com/rosesros/slide-animation"
     },
     {
-        id:4,
+        id:5,
         name:"Swiss-Gap",
         description:"Prototype for Authorization",
         tags:["PHP","CSS","JavaScript"],
@@ -38,17 +48,17 @@ export const Work = [
        
     },
     {
-        id:5,
-        name:"pullos.surge.sh",
-        description:"Site About Shoes with Cards",
-        tags:["html","css","javascript"],
+        id:6,
+        name:"tracker_universe",
+        description:"small project game",
+        tags:["VueJs","LESS","javascript"],
         
-        demo:"https://pullos.surge.sh/",
-        github:"https://github.com/rosesros?tab=repositories"
+        demo:"https://universtracker.surge.sh/",
+        github:"https://github.com/RosesRos/tracker_universe"
        
     },
     {
-        id:6,
+        id:7,
         name:"Rotation-Animation",
         description:"Rotation-Animation Canvas With SASS and JAVASCRIPT",
         tags:["JavaScript","Bootstrap","PUG HTML", "Sass", "WebPack"],
@@ -58,23 +68,13 @@ export const Work = [
         
     },
     {
-        id:7,
-        name:"Web App",
-        description:"Web App About Butterfly With PHP",
-        tags:["PHP","Bootstrap","Sass", "JavaScript"],
-        
-        demo:"https://roses.lovestoblog.com/form_2/",
-        github:"https://github.com/rosesros/Landing-page-app-php"
-        
-    },
-    {
         id:8,
         name:"Form Validate PHP",
         description:"How to Validate Form with PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
         demo:"https://roses.lovestoblog.com/form/",
-        github:"https://github.com/rosesros?tab=repositories"
+        github:"https://github.com/RosesRos?tab=repositories"
         
     },
     {
@@ -84,17 +84,7 @@ export const Work = [
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
         
         demo:"https://roses.lovestoblog.com/upload/",
-        github:"https://github.com/rosesros?tab=repositories"
-        
-    },
-    {
-        id:10,
-        name:"card-project in React-js",
-        description:"This is a small card-project in React-js",
-        tags:["React","react-animations","Sass", "react-jss"],
-        
-        demo:"https://delte.surge.sh/",
-        github:"https://github.com/rosesros/delte"
+        github:"https://github.com/RosesRos?tab=repositories"
         
     },
     
