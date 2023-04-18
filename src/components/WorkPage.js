@@ -15,7 +15,7 @@ import Earth from '../assets/Images/earth.png';
 
 const Box = styled.div`
 background-color: ${(props) => props.theme.body};
-height: 400vh;
+height: 600vh;
 position: relative;
 display: flex;
 align-items: center;

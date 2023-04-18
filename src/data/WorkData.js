@@ -1,6 +1,15 @@
 export const Work = [
     {
         id:1,
+        name:"Project Chat in JavaScript",
+        description:"a small chat online project",
+        tags:["Slick-CarouselJS","JQuery","LESS", "PHP", "WebPack"],
+        
+        demo:"https://roses.lovestoblog.com/chat1/",
+        github:"https://github.com/RosesRos?tab=repositories"
+    },
+    {
+        id:2,
         name:"prototype_crypto",
         description:"this project presents a simple prototype of web app for crypto",
         tags:["JavaScript","HTML","Jss for styles", "Pug for html"],
@@ -9,7 +18,7 @@ export const Work = [
         github:"https://github.com/rosesros/prototype_crypto"
     },
     {
-        id:2,
+        id:3,
         name:"Project legends_game",
         description:"A website build in VueJs. With searching and filtering functionalities.",
         tags:["VuejS", "Less", "AosJs"],
@@ -19,23 +28,14 @@ export const Work = [
         
     },
     {
-        id:3,
-        name:"Project Webpack",
-        description:"A film listing website build in Pug. With searching and filtering functionalities.",
-        tags:["PUG","WebPack", "Less", "Javascript"],
-        
-        demo:"https://rosesros.github.io/online-TV---league/dist/",
-        github:"https://github.com/rosesros/online-TV---league"
-        
-    },
-    {
         id:4,
-        name:"Project Chat in JavaScript",
-        description:"a small chat online project",
-        tags:["Slick-CarouselJS","JQuery","LESS", "PHP", "WebPack"],
+        name:"Prototype Twitter",
+        description:"Landing page for marketing on desing Twitter",
+        tags:["PHP","CSS3","javascript"],
         
-        demo:"https://roses.lovestoblog.com/chat1/",
+        demo:"https://roses.lovestoblog.com/twitter1/",
         github:"https://github.com/RosesRos?tab=repositories"
+       
     },
     {
         id:5,
@@ -48,26 +48,6 @@ export const Work = [
     },
     {
         id:6,
-        name:"Swiss-Gap",
-        description:"Prototype for Authorization",
-        tags:["PHP","CSS","JavaScript"],
-        
-        demo:"https://roses.lovestoblog.com/dist/",
-        github:"https://github.com/rosesros/swiss-gap"
-       
-    },
-    {
-        id:7,
-        name:"Prototype Twitter",
-        description:"Landing page for marketing on desing Twitter",
-        tags:["PHP","CSS3","javascript"],
-        
-        demo:"https://roses.lovestoblog.com/twitter1/",
-        github:"https://github.com/RosesRos?tab=repositories"
-       
-    },
-    {
-        id:8,
         name:"Prototype Facebook Chat",
         description:"Landing page for marketing on desing Facebook",
         tags:["PHP","CSS3","javascript"],
@@ -77,7 +57,17 @@ export const Work = [
        
     },
     {
-        id:9,
+        id:7,
+        name:"Swiss-Gap",
+        description:"Prototype for Authorization",
+        tags:["PHP","CSS","JavaScript"],
+        
+        demo:"https://roses.lovestoblog.com/dist/",
+        github:"https://github.com/rosesros/swiss-gap"
+       
+    },
+    {
+        id:8,
         name:"Landing Page",
         description:"Landing page for marketing",
         tags:["PHP","CSS3","javascript", "Swipper Carousel"],
@@ -85,6 +75,16 @@ export const Work = [
         demo:"https://roses.lovestoblog.com/bihecol/",
         github:"https://github.com/RosesRos?tab=repositories"
        
+    },
+    {
+        id:9,
+        name:"Project Webpack",
+        description:"A film listing website build in Pug. With searching and filtering functionalities.",
+        tags:["PUG","WebPack", "Less", "Javascript"],
+        
+        demo:"https://rosesros.github.io/online-TV---league/dist/",
+        github:"https://github.com/rosesros/online-TV---league"
+        
     },
     {
         id:10,
