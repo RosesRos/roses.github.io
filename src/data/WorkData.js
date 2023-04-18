@@ -30,6 +30,15 @@ export const Work = [
     },
     {
         id:4,
+        name:"Project Chat in JavaScript",
+        description:"a small chat online project",
+        tags:["Slick-CarouselJS","JQuery","LESS", "PHP", "WebPack"],
+        
+        demo:"https://roses.lovestoblog.com/chat1/",
+        github:"https://github.com/RosesRos?tab=repositories"
+    },
+    {
+        id:5,
         name:"Slide-Animation",
         description:"Slide-Animation With Less and Slick-slide",
         tags:["Slick-CarouselJS","JQuery","LESS", "PUG HTML", "WebPack"],
@@ -38,7 +47,7 @@ export const Work = [
         github:"https://github.com/rosesros/slide-animation"
     },
     {
-        id:5,
+        id:6,
         name:"Swiss-Gap",
         description:"Prototype for Authorization",
         tags:["PHP","CSS","JavaScript"],
@@ -48,7 +57,37 @@ export const Work = [
        
     },
     {
-        id:6,
+        id:7,
+        name:"Prototype Twitter",
+        description:"Landing page for marketing on desing Twitter",
+        tags:["PHP","CSS3","javascript"],
+        
+        demo:"https://roses.lovestoblog.com/twitter1/",
+        github:"https://github.com/RosesRos?tab=repositories"
+       
+    },
+    {
+        id:8,
+        name:"Prototype Facebook Chat",
+        description:"Landing page for marketing on desing Facebook",
+        tags:["PHP","CSS3","javascript"],
+        
+        demo:"https://roses.lovestoblog.com/facebookChat/",
+        github:"https://github.com/RosesRos?tab=repositories"
+       
+    },
+    {
+        id:9,
+        name:"Landing Page",
+        description:"Landing page for marketing",
+        tags:["PHP","CSS3","javascript", "Swipper Carousel"],
+        
+        demo:"https://roses.lovestoblog.com/bihecol/",
+        github:"https://github.com/RosesRos?tab=repositories"
+       
+    },
+    {
+        id:10,
         name:"tracker_universe",
         description:"small project game",
         tags:["VueJs","LESS","javascript"],
@@ -58,7 +97,7 @@ export const Work = [
        
     },
     {
-        id:7,
+        id:11,
         name:"Rotation-Animation",
         description:"Rotation-Animation Canvas With SASS and JAVASCRIPT",
         tags:["JavaScript","Bootstrap","PUG HTML", "Sass", "WebPack"],
@@ -68,7 +107,7 @@ export const Work = [
         
     },
     {
-        id:8,
+        id:12,
         name:"Form Validate PHP",
         description:"How to Validate Form with PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
@@ -78,7 +117,7 @@ export const Work = [
         
     },
     {
-        id:9,
+        id:13,
         name:"Apload an image",
         description:"How to Upload An Image With PHP",
         tags:["PHP","Bootstrap","Sass", "JavaScript"],
