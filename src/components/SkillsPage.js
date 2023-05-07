@@ -136,7 +136,7 @@ const SkillsPage = () => {
                     <Description>
                         <strong>SKILLS</strong>
                         <ul>
-                            <li>Reactjs</li>
+                            <li>Smarty</li>
                             <li>Vuejs</li>
                             <li>LESS</li>
                             <li>SASS</li>
