@@ -5,8 +5,8 @@ export const Work = [
         description:"a small chat online project",
         tags:["Slick-CarouselJS","JQuery","LESS", "PHP", "WebPack"],
         
-        demo:"https://roses.lovestoblog.com/chat1/",
-        github:"https://github.com/RosesRos?tab=repositories"
+        demo:"https://roseslands.surge.sh/@pre5/",
+        github:"https://github.com/RosesRos/lands"
     },
     {
         id:2,
@@ -29,12 +29,12 @@ export const Work = [
     },
     {
         id:4,
-        name:"Prototype Twitter",
-        description:"Landing page for marketing on desing Twitter",
-        tags:["PHP","CSS3","javascript"],
+        name:"Prototype landing page",
+        description:"Landing page for marketing",
+        tags:["HTML","CSS3","javascript"],
         
-        demo:"https://roses.lovestoblog.com/twitter1/",
-        github:"https://github.com/RosesRos?tab=repositories"
+        demo:"https://roseslands.surge.sh/@pre22/",
+        github:"https://github.com/RosesRos/lands/tree/master/@pre22"
        
     },
     {
@@ -48,12 +48,12 @@ export const Work = [
     },
     {
         id:6,
-        name:"Prototype Facebook Chat",
-        description:"Landing page for marketing on desing Facebook",
-        tags:["PHP","CSS3","javascript"],
+        name:"Prototype LANDING PAGE",
+        description:"Landing page for marketing",
+        tags:["HTML","CSS3","javascript"],
         
-        demo:"https://roses.lovestoblog.com/facebookChat/",
-        github:"https://github.com/RosesRos?tab=repositories"
+        demo:"https://roseslands.surge.sh/@pre25/",
+        github:"https://github.com/RosesRos/lands/tree/master/@pre25"
        
     },
     {
@@ -62,18 +62,18 @@ export const Work = [
         description:"Prototype for Authorization",
         tags:["PHP","CSS","JavaScript"],
         
-        demo:"https://roses.lovestoblog.com/dist/",
-        github:"https://github.com/rosesros/swiss-gap"
+        demo:"https://lure.lovestoblog.com/swissgap/home.php",
+        github:"https://github.com/RosesRos/swiss-gap"
        
     },
     {
         id:8,
         name:"Landing Page",
         description:"Landing page for marketing",
-        tags:["PHP","CSS3","javascript", "Swipper Carousel"],
+        tags:["HTML","CSS3","javascript", "Swipper Carousel"],
         
-        demo:"https://roses.lovestoblog.com/bihecol/",
-        github:"https://github.com/RosesRos?tab=repositories"
+        demo:"https://roseslands.surge.sh/@pre30/",
+        github:"https://github.com/RosesRos/lands"
        
     },
     {
@@ -108,22 +108,22 @@ export const Work = [
     },
     {
         id:12,
-        name:"Form Validate PHP",
-        description:"How to Validate Form with PHP",
-        tags:["PHP","Bootstrap","Sass", "JavaScript"],
+        name:"Prototype LANDING PAGE",
+        description:"Landing page for marketing",
+        tags:["HTML","CSS3","javascript", "Swipper Carousel"],
         
-        demo:"https://roses.lovestoblog.com/form/",
-        github:"https://github.com/RosesRos?tab=repositories"
+        demo:"https://roseslands-2.surge.sh/@pre31",
+        github:"https://github.com/RosesRos/lands/tree/master/@pre31"
         
     },
     {
         id:13,
-        name:"Apload an image",
-        description:"How to Upload An Image With PHP",
-        tags:["PHP","Bootstrap","Sass", "JavaScript"],
+        name:"Prototype LANDING PAGE",
+        description:"Landing page for marketing",
+        tags:["HTML","CSS3","javascript", "Swipper Carousel"],
         
-        demo:"https://roses.lovestoblog.com/upload/",
-        github:"https://github.com/RosesRos?tab=repositories"
+        demo:"https://roseslands-2.surge.sh/@pre36/",
+        github:"https://github.com/RosesRos/lands"
         
     },
     
