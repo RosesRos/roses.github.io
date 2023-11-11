@@ -5,7 +5,7 @@ export const Work = [
         description:"a small chat online project",
         tags:["Slick-CarouselJS","JQuery","LESS", "PHP", "WebPack"],
         
-        demo:"https://roseslands.surge.sh/@pre5/",
+        demo:"https://roseslands.surge.sh/@pre6/",
         github:"https://github.com/RosesRos/lands"
     },
     {
@@ -33,7 +33,7 @@ export const Work = [
         description:"Landing page for marketing",
         tags:["HTML","CSS3","javascript"],
         
-        demo:"https://roseslands.surge.sh/@pre22/",
+        demo:"https://roseslands.surge.sh/@pre5/",
         github:"https://github.com/RosesRos/lands/tree/master/@pre22"
        
     },
